@@ -13,3 +13,4 @@ $ docker run --rm \
 ## Build as an Nginx docker image
 
 Inside the docker directory sits a Dockerfile that you can use to build a deployable nginx image containing the output of the jekyll build command.
+
