@@ -14,6 +14,6 @@ While the focus of the event will be on Opencast, the community seeks participat
 
 ## Participate
 
-If you are interested in participating, please have a look at (the call for proposals)[https://oc2020.ugent.be/cfp.html] .
+If you are interested in participating, please have a look at [the call for proposals](https://oc2020.ugent.be/cfp.html) .
 
 Registration will be available shortly.
