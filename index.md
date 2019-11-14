@@ -16,4 +16,6 @@ While the focus of the event will be on Opencast, the community seeks participat
 
 If you are interested in participating, please have a look at [the call for proposals](https://oc2020.ugent.be/cfp.html) .
 
-Registration will be available shortly.
+## Register
+
+The registration for the Opencast 2020 Summit is open. Online registration is available [here](https://congrezzo.ugent.be/opencast2020/registration-opencast-summit-2020) .
