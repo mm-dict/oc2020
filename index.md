@@ -5,6 +5,11 @@ title: Home
 ## When
 The 11th Opencast conference will be hosted from 5-7 February 2020 at Ghent University in Belgium.
 
+## Where
+The conference takes place at the Campus Coupure of Ghent University, the main campus of our Faculty of Bioscience Engineering.
+
+More information about the venue and how to get to Ghent is available at the [venue](https://oc2020.ugent.be/venue.html) page.
+
 ## About the conference
 The Opencast community is an international collaboration of individuals, higher education institutions and organisations working together to discuss, develop, define and document best practices for the management of audiovisual content in academia.
 
