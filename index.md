@@ -17,7 +17,7 @@ The conference is dedicated to the use and management of academic video in gener
 
 While the focus of the event will be on Opencast, the community seeks participation from related domains and projects. We are therefore inviting educational designers, researchers, services providers and others working with video in academic settings to share expertise and experience across the field and explore opportunities to collaborate in related projects.
 
-We're thrilled to announce this year's keynote speakers *Emily Nordmann* and *Margret Plank* , see the [programme](https://oc2020.ugent.be/programme.html) !
+We're thrilled to announce this year's keynote speakers **Emily Nordmann** and **Margret Plank** , see the [programme](https://oc2020.ugent.be/programme.html) !
 
 ## Participate
 
