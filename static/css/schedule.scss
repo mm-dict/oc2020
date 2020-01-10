@@ -29,7 +29,7 @@ table {
     
     td {
         border-spacing: 1em 1em;
-        font-weight: bold;
+        font-weight: bold;  
         line-height: 1.4;
         border-radius: 0.2rem;
         transition: opacity 0.3s ease;
@@ -46,3 +46,11 @@ table {
 .track-2 {background-color: #9CCC65};
 .break {background-color: #FF8A65};
 .extra {background-color: #B3E5FC};
+
+span.label {
+    padding: 0.3em 0.5em 0em 0.5em;
+}
+
+.label:empty {
+    display: inline !important;
+}

@@ -48,6 +48,12 @@ Margret Plank is head of the competence center for non-textual materials at the 
     <div class="tab-content">
         <div role="tabpanel" class="tab-pane active" id="tab-1-id">
             <div class="container-fluid" markdown="1"> 
+<div id="track-1-legend"><span class="track-1 label"></span>Room 1: Auditorium E1</div>
+<div id="track-2-legend"><span class="track-2 label"></span>Room 2: Auditorium E3</div>
+<div id="break-legend"><span class="break label"></span>Agora</div>
+<div id="break-legend"><span class="extra label"></span>Agora</div>
+
+
 <table>
     <body>
         <tr>
@@ -132,10 +138,21 @@ Margret Plank is head of the competence center for non-textual materials at the 
     </body>
 </table>   
 
+<div><span class="label">🔧</span>Development</div>
+<div><span class="label">👤</span>User</div>
+<div><span class="label">🎓</span>Academic Video</div>
+<div><span class="label">🌎</span>Community</div>
+
 </div> <!-- This close tag must be left aligned. -->
         </div>
         <div role="tabpanel" class="tab-pane" id="tab-2-id">
             <div class="container-fluid" markdown="1">
+
+<div id="track-1-legend"><span class="track-1 label"></span>Room 1: Auditorium E1</div>
+<div id="track-2-legend"><span class="track-2 label"></span>Room 2: Auditorium E3</div>
+<div id="break-legend"><span class="break label"></span>Agora</div>
+<div id="break-legend"><span class="extra label"></span>Agora</div>
+
 <table>
     <body>
         <tr>
@@ -221,10 +238,21 @@ Margret Plank is head of the competence center for non-textual materials at the 
     </body>
 </table>
 
+<div><span class="label">🔧</span>Development</div>
+<div><span class="label">👤</span>User</div>
+<div><span class="label">🎓</span>Academic Video</div>
+<div><span class="label">🌎</span>Community</div>	
+
 </div> <!-- This close tag must be left aligned. -->
         </div>
         <div role="tabpanel" class="tab-pane" id="tab-n-id">
             <div class="container-fluid" markdown="1">
+
+<div id="track-1-legend"><span class="track-1 label"></span>Room 1: Auditorium E1</div>
+<div id="track-2-legend"><span class="track-2 label"></span>Room 2: Auditorium E3</div>
+<div id="break-legend"><span class="break label"></span>Agora</div>
+<div id="break-legend"><span class="extra label"></span>Agora</div>
+
 <table>
     <body>
         <tr>
@@ -282,6 +310,11 @@ Margret Plank is head of the competence center for non-textual materials at the 
         </tr>
     </body>
 </table>
+
+<div><span class="label">🔧</span>Development</div>
+<div><span class="label">👤</span>User</div>
+<div><span class="label">🎓</span>Academic Video</div>
+<div><span class="label">🌎</span>Community</div>
 
 </div> <!-- This close tag must be left aligned. --> 
         </div> 
