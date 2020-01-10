@@ -20,4 +20,270 @@ Margret Plank is head of the competence center for non-textual materials at the 
 
 
 ## Programme
-The programme of the 11th Opencast conference is still under construction.
+
+
+
+<div class="panel panel-default">
+
+<!-- Nav tabs -->
+    <ul class="nav nav-tabs" role="tablist">
+        <li role="presentation" class="active">
+      <a href="#tab-1-id" aria-controls="tab-1-id" role="tab" data-toggle="tab">
+                Wednesday 5/02 
+            </a>
+        </li>
+        <li role="presentation">
+            <a href="#tab-2-id" aria-controls="tab-2-id" role="tab" data-toggle="tab">
+                Thursday 6/02
+            </a>
+        </li>
+        <li role="presentation">
+            <a href="#tab-n-id" aria-controls="tab-n-id" role="tab" data-toggle="tab">
+                Friday 7/02
+            </a>
+        </li>
+    </ul>
+
+<!-- Tab panes -->
+    <div class="tab-content">
+        <div role="tabpanel" class="tab-pane active" id="tab-1-id">
+            <div class="container-fluid" markdown="1"> 
+<table>
+    <body>
+        <tr>
+            <th>09:00</th>
+            <td></td>
+        </tr>
+        <tr>
+            <th>09:30</th>
+            <td class="track-1">Registration</td>
+        </tr>
+        <tr>
+            <th>10:00</th>
+            <td class="track-1">🌎 Welcome from the University of Ghent and the Opencast Board</td>
+        </tr>
+        <tr>
+            <th>10:30</th>
+            <td class="track-1">🌎 Ian Dolphin <span>Apereo Foundation</span></td>
+        </tr>
+        <tr>
+            <th>11:00</th>
+            <td class="break">Coffeebreak</td>
+            <td class="track-1">🌎 Lars Kiesow <span>Opencast in numbers</span></td>
+        </tr>
+        <tr>
+            <th>11:30</th>
+            <td rowspan="2" class="track-1">🎓 Emily Nordmann <span>Keynote</span></td>
+        </tr>
+        <tr>
+            <th>12:00</th>
+        </tr>
+        <tr>
+            <th>12:15</th>
+            <td class="track-1">👤 Rute Sandos <span>How Opencast outperformed a competitor</span></td>
+        </tr>
+        <tr>
+            <th>12:30</th>
+            <td rowspan="2" class="break">Lunch</td>
+        </tr>
+        <tr>
+            <th>13:00</th>
+        </tr>
+        <tr>
+            <th>13:30</th>
+            <td class="track-1">🎓 Daniel Ebbert, Carlos Turró Ribalta<span>Are students binge watching lecture recordings? Students lecture recording usage patterns over time</span></td>
+        </tr>
+        <tr>
+            <th>14:00</th>
+            <td class="track-1">👤 Carlos Turró Ribalta<span>Paella Player 6.3. New features and HLS use cases</span></td>
+        </tr>
+        <tr>
+            <th>14:30</th>
+            <td class="track-1">👤 Rüdiger Rolf <span>Opencast Annotation Tool - State of the Project</span></td>
+        </tr>
+        <tr>
+            <th>15:00</th>
+            <td class="track-1">👤 Christian Greweling <span>Media Gallery</span></td>
+        </tr>
+        <tr>
+            <th>15:30</th>
+            <td class="break">Coffee Break</td>
+        </tr>
+        <tr>
+            <th>16:00</th>
+            <td class="track-1">👤 Thomas Berton <span>Opencast at Ghent University</span></td>
+        </tr>
+        <tr>
+            <th>16:15</th>
+            <td class="track-1">🔧 Matthias Neugebauer <span>Opencast Workflow Turing Machine</span></td>
+        </tr>
+        <tr>
+            <th>16:30</th>
+            <td class="track-1">👤 Ypatios Grigoriadis <span>Opencast Workflow System Usability</span></td>
+        </tr>
+        <tr>
+            <th>16:45</th>
+            <td class="track-1">🌎 Opencast Releases 7, 8 and 9</td>
+        </tr>
+        <tr>
+            <th>17:15</th>
+            <td class="track-1">🌎 Roadmap</td>
+        </tr>
+    </body>
+</table>   
+
+</div> <!-- This close tag must be left aligned. -->
+        </div>
+        <div role="tabpanel" class="tab-pane" id="tab-2-id">
+            <div class="container-fluid" markdown="1">
+<table>
+    <body>
+        <tr>
+            <th>09:00</th>
+            <td class="track-1">🔧 Greg Logan <span>Testing Opencast Clusters-in-a-box: Ansible, Docker, and Opencast</span></td>
+            <td rowspan="2" class="track-2">👤 Daniel Ebbert, Lars Kiesow <span>Workflow Workshop</span></td>
+        </tr>
+        <tr>
+            <th>09:30</th>
+            <td class="track-1">👤 Greg Logan <span>Opencast in the Cloud: Publicly Supported VM Images</span></td>
+        </tr>
+        <tr>
+            <th>10:00</th>
+            <td class="track-1">👤 James Perrin <span>Migrating Manchester’s Lecture Capture to AWS: Are we there yet?</span></td>
+        </tr>
+        <tr>
+            <th>10:30</th>
+            <td class="break">Coffeebreak</td>
+        </tr>
+        <tr>
+            <th>11:00</th>
+            <td class="extra">🌎 Group Photo</td>
+        </tr>
+        <tr>
+            <th>11:15</th>
+            <td class="track-1">🎓 Margret Plank <span>Keynote 2</span></td>
+        </tr>
+        <tr>
+            <th>12:00</th>
+            <td class="track-1">👤 Vendor Showcase</td>
+        </tr>
+        <tr>
+            <th>12:30</th>
+            <td rowspan="2" class="break">Lunch</td>
+        </tr>
+        <tr>
+            <th>13:00</th>
+        </tr>
+        <tr>
+            <th>13:30</th>
+            <td class="track-1">🔧👤 Outcome of the Dev'n'Hack camp</td>
+        </tr>
+        <tr>
+            <th>13:45</th>
+            <td class="track-1">👤 Lars Kiesow, Rüdiger Rolf, Martin Wygas<span>Adopters Statistics and Registration</span></td>
+            <td class="track-2">🔧 Greg Logan<span>Why you should have a CI system</span></td>
+        </tr>
+        <tr>
+            <th>14:00</th>
+            <td class="track-1">👤 Philipp Middendorf <span>Use more of Opencast, directly from your LMS! Improving LTI.</span></td>
+            <td rowspan="2" class="track-2">🔧 Greg Logan<span>Current State of the CI system, and Why You Should Have a Copy
+</span></td>
+        </tr>
+        <tr>
+            <th>14:30</th>
+            <td class="track-1">👤 Karen Dolan <span>Challenges and Rewards of adopting the LTI Deep Linking tool</span></td>
+        </tr>
+        <tr>
+            <th>15:00</th>
+            <td class="track-1">👤 Lars Kiesow <span>Upcoming package repository changes (lightning talk)</span></td>
+        </tr>
+        <tr>
+            <th>15:15</th>
+            <td class="track-1">🔧 GPG Keysigning Party</td>
+        </tr>
+        <tr>
+            <th>15:30</th>
+            <td class="break">Coffeebreak</td>
+        </tr>
+        <tr>
+            <th>16:00</th>
+            <td class="track-1">👤 Lars Kiesow, Rüdiger Rolf, Lukas Kalbertodt
+ <span>Opencast studio</span></td>
+        </tr>
+        <tr>
+            <th>16:15</th>
+            <td class="track-1">👤 Olaf Schulte, Lars Kiesow <span>New Portal for Opencast</span></td>
+        </tr>
+        <tr>
+            <th>16:45</th>
+            <td class="track-1">Margret Plank <span>Usability of the TIB AV-Portal</span></td>
+        </tr>
+    </body>
+</table>
+
+</div> <!-- This close tag must be left aligned. -->
+        </div>
+        <div role="tabpanel" class="tab-pane" id="tab-n-id">
+            <div class="container-fluid" markdown="1">
+<table>
+    <body>
+        <tr>
+            <th>09:00</th>
+            <td class="track-1">🔧 Greg Logan <span>Opencast Developer Workflow</span></td>
+            <td class="track-2" rowspan="2">👤 Matthias Neugebauer<span>Introduction to Encoding Profiles and FFmpeg</span></td>
+        </tr>
+        <tr>
+            <th>09:30</th>
+            <td class="track-1">🔧 Greg Logan <span>Opencast, Maven, and OSGi: How they’re (not) related</span></td>
+        </tr>
+        <tr>
+            <th>10:00</th>
+            <td class="track-1">🔧 Kim Oliver Rinnewitz <span>OSGi Wiring Demystified</span></td>
+            <td class="track-2">🎓 Christian Greweling, Rüdiger Rolf <span>Why reviewing recordings is important</span></td>
+        </tr>
+        <tr>
+            <th>10:30</th>
+            <td class="break">Coffeebreak</td>
+        </tr>
+        <tr>
+            <th>11:00</th>
+            <td class="track-1">🌎 Meet the Opencast Board, including Crowdfunding</td>
+        </tr>
+        <tr>
+            <th>11:30</th>
+            <td class="track-1">👤 Greg Logan <span>Unsexy Crowdfunding Goals and Why You Should Fund Them</span></td>
+        </tr>
+        <tr>
+            <th>12:00</th>
+            <td class="track-1">🌎 Olaf Schulte, Lars Kiesow <span>Do we need a new website? Can we afford one?</span></td>
+        </tr>
+        <tr>
+            <th>12:30</th>
+            <td rowspan="2" class="break">Lunch</td>
+        </tr>
+        <tr>
+            <th>13:00</th>
+        </tr>
+        <tr>
+            <th>13:30</th>
+            <td class="track-1">👤 Frank Tanoh<span>Looking back at the University of Manchester Google subtitle implementation.</span></td>
+        </tr>
+        <tr>
+            <th>14:00</th>
+            <td class="track-1">👤 Lars Kiesow, Rüdiger Rolf, Orlando Bruno<span>Project Deep Speech</span></td>
+        </tr>
+        <tr>
+            <th>14:15</th>
+            <td class="track-1">🌎 Wrap-up of the Summit</td>
+        </tr>
+        <tr>
+            <th>14:30</th>
+            <td class="track-1">🌎 German Speaking Community Meeting</td>
+        </tr>
+    </body>
+</table>
+
+</div> <!-- This close tag must be left aligned. --> 
+        </div> 
+    </div>
+</div>

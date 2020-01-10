@@ -1,0 +1,48 @@
+---
+
+---
+ul li:before {
+    content: none !important;
+}
+
+table {
+    width: 100%;
+    min-height: 100vh;
+    padding: 4rem 0;
+    border-collapse: separate !important;
+    border-spacing: 0.5em !important;
+    
+    
+    th:not(.spacer) {
+    border-bottom: none !important;
+    }
+
+    th,
+    td {
+        padding: 0.5rem 1rem !important;
+    }
+    
+    th {
+        font-weight: normal;
+        border-top: thin dotted #ccc;
+    }
+    
+    td {
+        border-spacing: 1em 1em;
+        font-weight: bold;
+        line-height: 1.4;
+        border-radius: 0.2rem;
+        transition: opacity 0.3s ease;
+    }
+    
+    td > span {
+        font-weight: normal;
+        display: block;
+        width: 100%;
+    }
+}
+
+.track-1 {background-color: #FFA726};
+.track-2 {background-color: #9CCC65};
+.break {background-color: #FF8A65};
+.extra {background-color: #B3E5FC};
