@@ -82,7 +82,7 @@ Margret Plank is head of the competence center for non-textual materials at the 
         </tr>
         <tr>
             <th>11:45</th>
-            <td rowspan="2" class="track-1">🎓 Emily Nordmann <span>Keynote</span></td>
+            <td rowspan="2" class="track-1">🎓 Margret Plank <span>Keynote</span></td>
         </tr>
         <tr>
             <th>12:00</th>
@@ -96,7 +96,7 @@ Margret Plank is head of the competence center for non-textual materials at the 
         </tr>
         <tr>
             <th>13:30</th>
-            <td class="track-1">🎓 Daniel Ebbert, Carlos Turró Ribalta<span>Are students binge watching lecture recordings? Students lecture recording usage patterns over time</span></td>
+            <td class="track-1">👤 Olaf Schulte, Lars Kiesow <span>New Portal for Opencast</span></td>
         </tr>
         <tr>
             <th>14:00</th>
@@ -186,7 +186,7 @@ Margret Plank is head of the competence center for non-textual materials at the 
         </tr>
         <tr>
             <th>11:15</th>
-            <td class="track-1">🎓 Margret Plank <span>Keynote 2</span></td>
+            <td class="track-1">🎓 Emily Nordmann <span>Keynote 2</span></td>
         </tr>
         <tr>
             <th>12:00</th>
@@ -201,7 +201,7 @@ Margret Plank is head of the competence center for non-textual materials at the 
         </tr>
         <tr>
             <th>13:30</th>
-            <td class="track-1">👤 Olaf Schulte, Lars Kiesow <span>New Portal for Opencast</span></td>
+            <td class="track-1">🎓 Daniel Ebbert, Carlos Turró Ribalta<span>Are students binge watching lecture recordings? Students lecture recording usage patterns over time</span></td>
         </tr>
         <tr>
             <th>14:00</th>
