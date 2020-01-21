@@ -82,10 +82,11 @@ Margret Plank is head of the Competence Centre for Non-Textual Materials at the 
         </tr>
         <tr>
             <th>11:45</th>
-            <td rowspan="2" class="track-1">🎓 Margret Plank <span>Keynote</span></td>
+            <td class="track-1">👤 Thomas Berton <span>Opencast at Ghent University</span></td>
         </tr>
         <tr>
             <th>12:00</th>
+            <td class="track-1">🌎 Opencast Releases 7, 8 and 9</td>
         </tr>
         <tr>
             <th>12:30</th>
@@ -96,7 +97,7 @@ Margret Plank is head of the Competence Centre for Non-Textual Materials at the 
         </tr>
         <tr>
             <th>13:30</th>
-            <td class="track-1">🌎 Opencast Releases 7, 8 and 9</td>
+            <td rowspan="2" class="track-1">🎓 Margret Plank <span>Keynote</span></td>
         </tr>
         <tr>
             <th>14:00</th>
@@ -120,26 +121,22 @@ Margret Plank is head of the Competence Centre for Non-Textual Materials at the 
         </tr>
         <tr>
             <th>16:00</th>
-            <td class="track-1">👤 Thomas Berton <span>Opencast at Ghent University</span></td>
-        </tr>
-        <tr>
-            <th>16:15</th>
             <td class="track-1">👤 Lars Kiesow, Rüdiger Rolf, Lukas Kaltertodt <span>Opencast studio</span></td>
         </tr>
         <tr>
-            <th>16:30</th>
+            <th>16:15</th>
             <td class="track-1">🔧 Matthias Neugebauer <span>Opencast Workflow Turing Machine</span></td>
         </tr>
         <tr>
-            <th>16:45</th>
+            <th>16:30</th>
             <td class="track-1">👤 Ypatios Grigoriadis <span>Opencast Workflow System Usability</span></td>
         </tr>
         <tr>
-            <th>17:15</th>
+            <th>17:00</th>
             <td class="track-1">Wrap up day 1</td>
         </tr>
         <tr>
-            <th>17:30</th>
+            <th>17:15</th>
             <td class="extra">Walk to the city tour</td>
         </tr>
     </body>
@@ -204,6 +201,10 @@ Margret Plank is head of the Competence Centre for Non-Textual Materials at the 
             <td class="track-1">🎓 Daniel Ebbert, Carlos Turró Ribalta<span>Are students binge watching lecture recordings? Students lecture recording usage patterns over time</span></td>
         </tr>
         <tr>
+            <th>13:50</th>
+            <td class="track-1">👤 Lars Kiesow, Greg Logan <span>Upcoming package repository changes</span></td>
+        </tr>
+        <tr>
             <th>14:00</th>
             <td class="track-1">Margret Plank <span>Usability of the TIB AV-Portal</span></td>
             <td class="track-2">🔧 Greg Logan<span>Why you should have a CI system</span></td>
@@ -219,7 +220,7 @@ Margret Plank is head of the Competence Centre for Non-Textual Materials at the 
         </tr>
         <tr>
             <th>15:15</th>
-            <td class="track-1">👤 Lars Kiesow, Greg Logan <span>Upcoming package repository changes</span></td>
+            <td class="track-1">🌎 World Cafe</td>
         </tr>
         <tr>
             <th>15:30</th>
