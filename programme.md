@@ -286,7 +286,7 @@ Margret Plank is head of the Competence Centre for Non-Textual Materials at the 
         </tr>
         <tr>
             <th>11:00</th>
-            <td class="track-1">🌎 Meet the Opencast Board, including Crowdfunding</td>
+            <td class="track-1">🌎 Meet the Opencast Board, including Crowdfunding and next Conferences</td>
         </tr>
         <tr>
             <th>11:30</th>
