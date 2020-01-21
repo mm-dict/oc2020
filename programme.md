@@ -97,7 +97,7 @@ Margret Plank is head of the Competence Centre for Non-Textual Materials at the 
         </tr>
         <tr>
             <th>13:30</th>
-            <td rowspan="2" class="track-1">🎓 Margret Plank <span>Keynote</span></td>
+            <td class="track-1">🎓 Margret Plank <span>Keynote</span></td>
         </tr>
         <tr>
             <th>14:00</th>
