@@ -16,7 +16,7 @@ Her homepage can be found [here](https://emilynordmann.github.io/) and she can b
 
 ### Margret Plank
 
-Margret Plank is head of the competence center for non-textual materials at the Technical Information Library Hannover, Germany, since 2010. After studying information and media sciences (M.A.), from 2003 she worked at the University of Hildesheim as a research assistant at the Institute for Information Science and Language Technology. Since 2007, Margret Plank has been working as a consultant for information literacy at the Technical Information Library. She has published several works on the topics of usability and multimedia retrieval and has been teaching in the field of social media.
+Margret Plank is head of the Competence Centre for Non-Textual Materials at the German National Library of Science and Technology (TIB). Her team develops innovative and reliable infrastructures, tools and services for making scientific and educational videos, 3D objects, research data and scientific software accessible, searchable, citable and digitally preserved. Margret Plank holds an MA in Information Science and Media Studies from the University of Hildesheim and has previously worked as a researcher in the area of Usability and E-learning at the Institute of Information Studies and Language Technology at the University of Hildesheim. She  has successfully raised third-party funding and been developing digital library services such as the TIB AV-Portal and a portal for open educational resources for higher education. She represents TIB on several boards, including the Audiovisuals and Multimedia Section of IFLA (International Federation of Library Associations and Institutions), International Council of Scientific and Technical Information (ICSTI), GreyNet International, World Wide Science Alliance, Network for Film-, and Media Libraries in Germany, International Association of Sound and Audiovisual Archives (IASA) EUscreen Foundation and EUROPEANA Network Association.
 
 
 ## Programme
@@ -96,7 +96,7 @@ Margret Plank is head of the competence center for non-textual materials at the 
         </tr>
         <tr>
             <th>13:30</th>
-            <td class="track-1">👤 Olaf Schulte, Lars Kiesow <span>New Portal for Opencast</span></td>
+            <td class="track-1">🌎 Opencast Releases 7, 8 and 9</td>
         </tr>
         <tr>
             <th>14:00</th>
@@ -231,7 +231,7 @@ Margret Plank is head of the competence center for non-textual materials at the 
         </tr>
         <tr>
             <th>16:15</th>
-            <td class="track-1">🌎 Opencast Releases 7, 8 and 9</td>
+            <td class="track-1">👤 Olaf Schulte, Lars Kiesow <span>New Portal for Opencast</span></td>
         </tr>
         <tr>
             <th>16:45</th>
