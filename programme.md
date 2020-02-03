@@ -70,14 +70,14 @@ Margret Plank is head of the Competence Centre for Non-Textual Materials at the 
         </tr>
         <tr>
             <th>10:30</th>
-            <td class="track-1">🌎 Ian Dolphin <span>Apereo Foundation</span></td>
+            <td class="track-1">🌎 Ian Dolphin <span>Cooperative Open Source Software for Education</span></td>
         </tr>
         <tr>
-            <th>11:00</th>
+            <th>10:50</th>
             <td class="track-1">🌎 Lars Kiesow <span>Opencast in numbers</span></td>
         </tr>
         <tr>
-            <th>11:30</th>
+            <th>11:15</th>
             <td class="track-1">Coffeebreak</td>
         </tr>
         <tr>
@@ -87,6 +87,10 @@ Margret Plank is head of the Competence Centre for Non-Textual Materials at the 
         <tr>
             <th>12:00</th>
             <td class="track-1">🌎 Opencast Releases 7, 8 and 9</td>
+        </tr>
+        <tr>
+            <th></th>
+            <td class="track-1">👤 Lars Kiesow, Greg Logan <span>Upcoming package repository changes</span></td>
         </tr>
         <tr>
             <th>12:30</th>
@@ -113,7 +117,7 @@ Margret Plank is head of the Competence Centre for Non-Textual Materials at the 
         </tr>
         <tr>
             <th>15:15</th>
-            <td class="track-1">👤 Rute Sandos <span>How Opencast outperformed a competitor</span></td>
+            <td class="track-1">👤 Phoebe Miller <span>Serverless Adaptive Bitrate Streaming on AWS</span></td>
         </tr>
         <tr>
             <th>15:30</th>
@@ -212,22 +216,18 @@ Margret Plank is head of the Competence Centre for Non-Textual Materials at the 
             <td class="track-1">🎓 Daniel Ebbert, Carlos Turró Ribalta<span>Are students binge watching lecture recordings? Students lecture recording usage patterns over time</span></td>
         </tr>
         <tr>
-            <th>13:50</th>
-            <td class="track-1">👤 Lars Kiesow, Greg Logan <span>Upcoming package repository changes</span></td>
-        </tr>
-        <tr>
             <th>14:00</th>
             <td class="track-1">Margret Plank <span>Usability of the TIB AV-Portal</span></td>
             <td class="track-2">🔧 Greg Logan<span>Why you should have a CI system</span></td>
         </tr>
         <tr>
             <th>14:30</th>
-            <td class="track-1">👤 Philipp Middendorf <span>Use more of Opencast, directly from your LMS! Improving LTI.</span></td>
+            <td class="track-1">👤 Karen Dolan <span>Challenges and Rewards of adopting the LTI Deep Linking tool</span></td>
             <td rowspan="2" class="track-2">🔧 Greg Logan <span>Current State of the CI system, and Why You Should Have a Copy</span></td>
         </tr>
         <tr>
-            <th>15:00</th>
-            <td class="track-1">👤 Karen Dolan <span>Challenges and Rewards of adopting the LTI Deep Linking tool</span></td>
+            <th>14:45</th>
+            <td class="track-1">👤 Olaf Schulte <span>Institutional video policies</span></td>
         </tr>
         <tr>
             <th>15:15</th>
@@ -239,7 +239,7 @@ Margret Plank is head of the Competence Centre for Non-Textual Materials at the 
         </tr>
         <tr>
             <th>16:00</th>
-            <td class="track-1">👤 Lars Kiesow, Rüdiger Rolf, Martin Wygas <span>Adopters Statistics and Registration</span></td>
+            <td class="track-1">👤 Lars Kiesow, Rüdiger Rolf <span>Adopters Statistics and Registration</span></td>
         </tr>
         <tr>
             <th>16:15</th>
@@ -269,7 +269,7 @@ Margret Plank is head of the Competence Centre for Non-Textual Materials at the 
     <h3>Evening Activities</h3>
     <div>
         <h4>City Tour</h4>
-        <div><b>18:00</b> - Meetup at Korenlei ( <a href="https://goo.gl/maps/Jmx9fPnUuFzCZBH59">map</a> ) with boot tour and city walk.</div>
+        <div><b>18:00</b> - Meetup at Korenlei ( <a href="https://goo.gl/maps/Jmx9fPnUuFzCZBH59">map</a> ) with boat tour and city walk.</div>
         <div><b>20:30</b> - Diner at belfort stadscafe ( <a href="https://goo.gl/maps/gfXW9V6UnDRmb8x56">map</a> )</div>
     </div>
 </div>
@@ -297,7 +297,7 @@ Margret Plank is head of the Competence Centre for Non-Textual Materials at the 
         </tr>
         <tr>
             <th>10:00</th>
-            <td class="track-1">🔧 Kim Oliver Rinnewitz <span>OSGi Wiring Demystified</span></td>
+            <td class="track-1">🔧 Greg Logan <span>OSGi Wiring Demystified</span></td>
             <td class="track-2">🎓 Christian Greweling, Rüdiger Rolf <span>Why reviewing recordings is important</span></td>
         </tr>
         <tr>
