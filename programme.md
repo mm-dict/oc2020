@@ -147,6 +147,17 @@ Margret Plank is head of the Competence Centre for Non-Textual Materials at the 
 <div><span class="label">🎓</span>Academic Video</div>
 <div><span class="label">🌎</span>Community</div>
 
+<div>
+    <h3>Evening Activities</h3>
+    <div>
+        <h4>City Tour</h4>
+        <span>
+        <div><b>18:00</b> - Meetup at Lakenhalle ( <a href="https://goo.gl/maps/2pDkHdhEM3RorVYJ7">map</a>) with visit to the Belfry and city tour.</div>
+        <div><b>20:30</b> - Diner at the Abt ( <a href="https://goo.gl/maps/2eAdPhuZoe7dWCMRA">map</a> )</div>
+        </span>
+    </div>
+</div>
+
 </div> <!-- This close tag must be left aligned. -->
         </div>
         <div role="tabpanel" class="tab-pane" id="tab-2-id">
@@ -253,6 +264,15 @@ Margret Plank is head of the Competence Centre for Non-Textual Materials at the 
 <div><span class="label">👤</span>User</div>
 <div><span class="label">🎓</span>Academic Video</div>
 <div><span class="label">🌎</span>Community</div>	
+
+<div>
+    <h3>Evening Activities</h3>
+    <div>
+        <h4>City Tour</h4>
+        <div><b>18:00</b> - Meetup at Korenlei ( <a href="https://goo.gl/maps/Jmx9fPnUuFzCZBH59">map</a> ) with boot tour and city walk.</div>
+        <div><b>20:30</b> - Diner at belfort stadscafe ( <a href="https://goo.gl/maps/gfXW9V6UnDRmb8x56">map</a> )</div>
+    </div>
+</div>
 
 </div> <!-- This close tag must be left aligned. -->
         </div>
