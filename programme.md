@@ -217,7 +217,7 @@ Margret Plank is head of the Competence Centre for Non-Textual Materials at the 
         </tr>
         <tr>
             <th>14:00</th>
-            <td class="track-1">Margret Plank <span>Usability of the TIB AV-Portal</span></td>
+            <td class="track-1">👤 Margret Plank <span>Usability of the TIB AV-Portal</span></td>
             <td class="track-2">🔧 Greg Logan<span>Why you should have a CI system</span></td>
         </tr>
         <tr>
