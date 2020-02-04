@@ -57,8 +57,8 @@ Margret Plank is head of the Competence Centre for Non-Textual Materials at the 
 <table>
     <body>
         <tr>
-            <th>09:00</th>
-            <td></td>
+            <th>08:30</th>
+            <td class="track-1">Breakfast</td>
         </tr>
         <tr>
             <th>09:30</th>
@@ -175,6 +175,10 @@ Margret Plank is head of the Competence Centre for Non-Textual Materials at the 
 <table>
     <body>
         <tr>
+            <th>08:00</th>
+            <td class="track-1">Breakfast</td>
+        </tr>        
+        <tr>
             <th>09:00</th>
             <td class="track-1">🔧 Greg Logan <span>Testing Opencast Clusters-in-a-box: Ansible, Docker, and Opencast</span></td>
             <td rowspan="2" class="track-2">👤 Waldemar Smirnow <span>Workflow Workshop</span></td>
@@ -286,6 +290,10 @@ Margret Plank is head of the Competence Centre for Non-Textual Materials at the 
 
 <table>
     <body>
+        <tr>
+            <th>08:00</th>
+            <td class="track-1">Breakfast</td>
+        </tr>        
         <tr>
             <th>09:00</th>
             <td class="track-1">🔧 Greg Logan <span>Opencast Developer Workflow</span></td>
