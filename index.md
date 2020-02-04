@@ -19,10 +19,25 @@ While the focus of the event will be on Opencast, the community seeks participat
 
 We're thrilled to announce this year's keynote speakers **Emily Nordmann** and **Margret Plank** , see the [programme](https://oc2020.ugent.be/programme.html) !
 
-## Participate
+## Pre-conference
 
-If you are interested in participating, please have a look at [the call for proposals](https://oc2020.ugent.be/cfp.html) .
+The pre-conference event is at **Café Vooruit** starting at **18:00**, [map](https://goo.gl/maps/TDggnnZxVwYwqH2f8) 
+
+## Evening activities
+
+For those who registered and payed the evening activities:
+
+**Day 1:**
+
+**18:00** - Meetup at Lakenhalle [map](https://goo.gl/maps/2pDkHdhEM3RorVYJ7) with visit to the Belfry and city tour.
+**20:30** - Diner at the Abt [map](https://goo.gl/maps/2eAdPhuZoe7dWCMRA) 
+
+**Day 2:**
+
+**18:00** - Meetup at Korenlei [map](https://goo.gl/maps/Jmx9fPnUuFzCZBH59) with boat tour and city walk.
+**20:30** - Diner at belfort stadscafe [map](https://goo.gl/maps/gfXW9V6UnDRmb8x56)
+
 
 ## Register
 
-The registration for the Opencast 2020 Summit is open. Online registration is available [here](https://congrezzo.ugent.be/opencast2020/registration-opencast-summit-2020) .
+The registration for the Opencast 2020 Summit is closed.
