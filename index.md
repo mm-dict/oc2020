@@ -30,11 +30,13 @@ For those who registered and payed the evening activities:
 **Day 1:**
 
 **18:00** - Meetup at Lakenhalle [map](https://goo.gl/maps/2pDkHdhEM3RorVYJ7) with visit to the Belfry and city tour.
+
 **20:30** - Diner at the Abt [map](https://goo.gl/maps/2eAdPhuZoe7dWCMRA) 
 
 **Day 2:**
 
 **18:00** - Meetup at Korenlei [map](https://goo.gl/maps/Jmx9fPnUuFzCZBH59) with boat tour and city walk.
+
 **20:30** - Diner at belfort stadscafe [map](https://goo.gl/maps/gfXW9V6UnDRmb8x56)
 
 
