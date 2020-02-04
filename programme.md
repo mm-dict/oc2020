@@ -311,7 +311,7 @@ For those who registered and payed the evening activities:
     <body>
         <tr>
             <th>08:00</th>
-            <td class="track-1">Breakfast</td>
+            <td class="break">Breakfast</td>
         </tr>        
         <tr>
             <th>09:00</th>
