@@ -58,7 +58,7 @@ Margret Plank is head of the Competence Centre for Non-Textual Materials at the 
     <body>
         <tr>
             <th>08:30</th>
-            <td class="track-1">Breakfast</td>
+            <td class="break">Breakfast</td>
         </tr>
         <tr>
             <th>09:30</th>
@@ -78,7 +78,7 @@ Margret Plank is head of the Competence Centre for Non-Textual Materials at the 
         </tr>
         <tr>
             <th>11:15</th>
-            <td class="track-1">Coffeebreak</td>
+            <td class="break">Coffeebreak</td>
         </tr>
         <tr>
             <th>11:45</th>
@@ -176,7 +176,7 @@ Margret Plank is head of the Competence Centre for Non-Textual Materials at the 
     <body>
         <tr>
             <th>08:00</th>
-            <td class="track-1">Breakfast</td>
+            <td class="break">Breakfast</td>
         </tr>        
         <tr>
             <th>09:00</th>
