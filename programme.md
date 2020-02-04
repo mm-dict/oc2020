@@ -18,6 +18,25 @@ Her homepage can be found [here](https://emilynordmann.github.io/) and she can b
 
 Margret Plank is head of the Competence Centre for Non-Textual Materials at the German National Library of Science and Technology (TIB). Her team develops innovative and reliable infrastructures, tools and services for making scientific and educational videos, 3D objects, research data and scientific software accessible, searchable, citable and digitally preserved. Margret Plank holds an MA in Information Science and Media Studies from the University of Hildesheim and has previously worked as a researcher in the area of Usability and E-learning at the Institute of Information Studies and Language Technology at the University of Hildesheim. She  has successfully raised third-party funding and been developing digital library services such as the TIB AV-Portal and a portal for open educational resources for higher education. She represents TIB on several boards, including the Audiovisuals and Multimedia Section of IFLA (International Federation of Library Associations and Institutions), International Council of Scientific and Technical Information (ICSTI), GreyNet International, World Wide Science Alliance, Network for Film-, and Media Libraries in Germany, International Association of Sound and Audiovisual Archives (IASA) EUscreen Foundation and EUROPEANA Network Association.
 
+## Pre-conference
+
+The pre-conference event is at **Café Vooruit** starting at **18:00**, [map](https://goo.gl/maps/TDggnnZxVwYwqH2f8) 
+
+## Evening activities
+
+For those who registered and payed the evening activities:
+
+**Day 1:**
+
+**18:00** - Meetup at Lakenhalle with visit to the Belfry and city tour,  [map](https://goo.gl/maps/2pDkHdhEM3RorVYJ7)
+
+**20:30** - Diner at the Abt, [map](https://goo.gl/maps/2eAdPhuZoe7dWCMRA) 
+
+**Day 2:**
+
+**18:00** - Meetup at Korenlei with boat tour and city walk, [map](https://goo.gl/maps/Jmx9fPnUuFzCZBH59)
+
+**20:30** - Diner at belfort stadscafe, [map](https://goo.gl/maps/gfXW9V6UnDRmb8x56)
 
 ## Programme
 
