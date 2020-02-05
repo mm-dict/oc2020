@@ -39,6 +39,12 @@ For those who registered and payed the evening activities:
 
 **20:30** - Diner at belfort stadscafe, [map](https://goo.gl/maps/gfXW9V6UnDRmb8x56)
 
+## Housekeeping rules
+
+* No food or drinks in the lecture hall
+* No smoking inside the buildings
+* Toilets are indicated
+* WiFi "eduroam" or UGentGuest (with guest account) 
 
 ## Register
 
