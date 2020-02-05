@@ -131,12 +131,16 @@ For those who registered and payed the evening activities:
             <td class="track-1">👤 Rüdiger Rolf <span>Opencast Annotation Tool - State of the Project</span></td>
         </tr>
         <tr>
-            <th>15:00</th>
+            <th>14:45</th>
             <td class="track-1">👤 Christian Greweling <span>Media Gallery</span></td>
         </tr>
         <tr>
-            <th>15:15</th>
+            <th>15:00</th>
             <td class="track-1">👤 Phoebe Miller <span>Serverless Adaptive Bitrate Streaming on AWS</span></td>
+        </tr>
+        <tr>
+            <th>15:15</th>
+            <td class="track-1">👤 Olaf Schulte <span>Ask me anything about Opencast <a href="https://docs.google.com/document/d/1ajRukS9GmxYKQBn7sC3qNugqPFfcY3qQB8IMRR2qkHs/edit?usp=sharing">link</a></span></td>
         </tr>
         <tr>
             <th>15:30</th>
