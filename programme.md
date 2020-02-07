@@ -346,6 +346,7 @@ For those who registered and payed the evening activities:
         <tr>
             <th>12:00</th>
             <td class="track-1">🌎 Olaf Schulte, Lars Kiesow <span>Do we need a new website? Can we afford one?</span></td>
+            <td class="track-2">👤 Thomas Dieste <span>Amberscript Opencast integration</span></td>
         </tr>
         <tr>
             <th>12:30</th>
